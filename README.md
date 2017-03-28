@@ -1,6 +1,6 @@
 # ViajesExpress
 
-![En construcción](C:\Users\Alumnos\Documents\acmp1pt.png)
+![En construcción]()
 
 ## Objetivo de la aplicación
 El objetivo de la aplicación es ...
