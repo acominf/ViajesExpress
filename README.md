@@ -1,6 +1,6 @@
 # ViajesExpress
 
-![En construcción]()
+![En construcción](C:\Users\Alumnos\Documents)
 
 ## Objetivo de la aplicación
 El objetivo de la aplicación es ...
