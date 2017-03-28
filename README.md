@@ -1,6 +1,6 @@
 # ViajesExpress
 
-![En construcción](C:\Users\Alumnos\Documents)
+![En construcción](https://github.com/acominf/ViajesExpress/blob/master/Imagenes/acmp1pt.png)
 
 ## Objetivo de la aplicación
 El objetivo de la aplicación es ...
