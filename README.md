@@ -1,35 +1,32 @@
 # ViajesExpress
 
-![En construcción](https://github.com/acominf/ViajesExpress/blob/master/Imagenes/acmp1pt.png)
+![Logo](https://github.com/acominf/ViajesExpress/blob/master/Imagenes/acmp1pt.png)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+Este proyecto consiste en crear una página en la que se anuncian viajes cortos desde S.L.P. hacia diferentes estados o municipios de la república en autobús.
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+En esta página se pretende que los usuarios puedan anunciar los viajes que ellos mismo organizan así como también puedan dar retroalimentación sobre los viajes que organizan otros usuarios y así poder decir si son fiables o si han presentado algún problema con los usuarios que organizan los eventos.
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+En esta página se podrá hacer compra y/o reserva de los boletos que estén disponibles para dichos viajes si es que el organizador así lo desea o bien si ellos quieren solo la venta se podrá hacer de forma externa contactandolos directamente.
 
-### Funcionalidad 1
-La descripción de la funcionalidad 1 es ...
+### Publicar viajes.
+En esta página los usuarios organizadores de eventos podran publicar sus viajes para que la gente se entere de ellos.
 
-### Funcionalidad 2
-La descripción de la funcionalidad 2 es ...
+### Compra y/o reserva de boletos.
+El cliente podrá comprar y/o reservar sus asientos de aquellos viajes a los que quiera asistir.
 
-### Funcionalidad 3
-La descripción de la funcionalidad 3 es ...
+### Calificacion de viajes.
+Los clientes tendran la oportunidad de calificar a los organizadores de los viajes para que ellos mismos sepan si es de confianza o no.
 
-### Funcionalidad 4
-La descripción de la funcionalidad 4 es ...
-
-### Funcionalidad 5
-La descripción de la funcionalidad 5 es ...
+### Comentarios.
+Los usuarios dejarán comentarios sobre sus experiencias en dichos viajes para compartirlas con los demás.
 
 ## Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Maldonado Díaz Fábian Giovany (@Legio8)
+- Guerrero Reyes Gilberto (@GiilGuerrero)
 
 ## Materia(s)
 - Tecnologías Web
@@ -37,8 +34,7 @@ El autor(es) del proyecto son:
 ## Semestre
 - 2016-2017/II
 
-## Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
-
-## Temas de Jekyll
-El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
+### U.A.S.L.P 
+### Facultad de ingeniería.
+### Area de Computación e Informática.
+### Todos los derechos Reservados 2017.
