@@ -1,6 +1,6 @@
 # ViajesExpress
 
-![Logo](https://raw.githubusercontent.com/acominf/ViajesExpress/blob/master/Imagenes/acmp1pt.png)
+![Logo](https://raw.githubusercontent.com/acominf/ViajesExpress/master/Imagenes/acmp1pt.png)
 
 
 ## Objetivo de la aplicación
