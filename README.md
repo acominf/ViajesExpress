@@ -36,6 +36,10 @@ En esta página los usuarios organizadores de eventos podran publicar sus viajes
 
 ![Diagrama](https://raw.githubusercontent.com/acominf/ViajesExpress/master/Imagenes/Diagrama%20Componentes%20(1).png)
 
+## Diagrama entidad-relación de la BD
+
+![EER](https://raw.githubusercontent.com/acominf/ViajesExpress/master/Imagenes/EER.png)
+
 ## Video Demostración
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ow5203hsacs" frameborder="0" allowfullscreen></iframe>
