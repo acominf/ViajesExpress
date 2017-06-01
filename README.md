@@ -32,6 +32,10 @@ Esta página cuenta con la función de registrarse para que los usuarios puedan 
 
 En esta página los usuarios organizadores de eventos podran publicar sus viajes para que la gente se entere de ellos. Solo necesitan llenar un formulario en el que deben poner la información necesaria.
 
+## Descripción funcional
+
+![Diagrama](https://raw.githubusercontent.com/acominf/ViajesExpress/master/Imagenes/Diagrama%20Componentes%20(1).png)
+
 ## Autor(es)
 
 El autor(es) del proyecto son:
